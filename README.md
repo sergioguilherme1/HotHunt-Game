@@ -2,7 +2,6 @@
 
 **Hot Hunt** é um jogo clássico de caça ao tesouro ("Quente ou Frio") para dois jogadores, implementado em C utilizando `winsock2.h` para comunicação em rede. Este projeto demonstra o gerenciamento de estado e a exclusão mútua através de um protocolo de troca de mensagens síncrono entre um processo Servidor e um Cliente.
 
-![Imagem de um mapa do tesouro 5x5 com pinos de jogador](https://i.imgur.com/gA9mY1j.png)
 
 ---
 
